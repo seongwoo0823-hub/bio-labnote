@@ -1,0 +1,233 @@
+[
+{
+"id": "a210c770",
+"short": "LoB1",
+"title": "생물학총론 ① 세포학",
+"subject": "maj",
+"parts": [
+{
+"file": "books/a210c770.pdf",
+"from": 1,
+"to": 272
+}
+],
+"pages": 272,
+"offset": 0
+},
+{
+"id": "697baeb1",
+"short": "LoB2",
+"title": "생물학총론 ② 분자생물학",
+"subject": "maj",
+"parts": [
+{
+"file": "books/697baeb1.pdf",
+"from": 1,
+"to": 240
+}
+],
+"pages": 240,
+"offset": 0
+},
+{
+"id": "062fd78d",
+"short": "LoB3",
+"title": "생물학총론 ③ 유전학·분류학과 미생물학",
+"subject": "maj",
+"parts": [
+{
+"file": "books/062fd78d.pdf",
+"from": 1,
+"to": 216
+}
+],
+"pages": 216,
+"offset": 0
+},
+{
+"id": "3de16e39",
+"short": "LoB4",
+"title": "생물학총론 ④ 동물생리학",
+"subject": "maj",
+"parts": [
+{
+"file": "books/3de16e39-1.pdf",
+"from": 1,
+"to": 162
+},
+{
+"file": "books/3de16e39-2.pdf",
+"from": 163,
+"to": 324
+}
+],
+"pages": 324,
+"offset": 0
+},
+{
+"id": "e5697f0d",
+"short": "LoB5",
+"title": "생물학총론 ⑤ 면역학·발생학",
+"subject": "maj",
+"parts": [
+{
+"file": "books/e5697f0d.pdf",
+"from": 1,
+"to": 272
+}
+],
+"pages": 272,
+"offset": 0
+},
+{
+"id": "daad7a55",
+"short": "LoB6",
+"title": "생물학총론 ⑥ 식물학·생태학",
+"subject": "maj",
+"parts": [
+{
+"file": "books/daad7a55.pdf",
+"from": 1,
+"to": 260
+}
+],
+"pages": 260,
+"offset": 0
+},
+{
+"id": "edu1",
+"short": "교육학 상",
+"title": "이선화 교육학 이론서 (상)",
+"subject": "edu",
+"parts": [
+{
+"file": "books/edu1-1.pdf",
+"from": 1,
+"to": 300
+},
+{
+"file": "books/edu1-2.pdf",
+"from": 301,
+"to": 602
+}
+],
+"pages": 602,
+"offset": 0
+},
+{
+"id": "edu2",
+"short": "교육학 하",
+"title": "이선화 교육학 이론서 (하)",
+"subject": "edu",
+"parts": [
+{
+"file": "books/edu2-1.pdf",
+"from": 1,
+"to": 270
+},
+{
+"file": "books/edu2-2.pdf",
+"from": 271,
+"to": 540
+}
+],
+"pages": 540,
+"offset": 0
+},
+{
+"id": "prob-p1",
+"short": "문제1",
+"title": "문제편 · 세포학",
+"subject": "maj",
+"kind": "prob",
+"parts": [
+{
+"file": "books/prob-p1.pdf",
+"from": 1,
+"to": 97
+}
+],
+"pages": 97,
+"offset": 0
+},
+{
+"id": "prob-p2",
+"short": "문제2",
+"title": "문제편 · 분자생물학",
+"subject": "maj",
+"kind": "prob",
+"parts": [
+{
+"file": "books/prob-p2.pdf",
+"from": 1,
+"to": 76
+}
+],
+"pages": 76,
+"offset": 0
+},
+{
+"id": "prob-p3",
+"short": "문제3",
+"title": "문제편 · 유전학·분류학·미생물",
+"subject": "maj",
+"kind": "prob",
+"parts": [
+{
+"file": "books/prob-p3.pdf",
+"from": 1,
+"to": 82
+}
+],
+"pages": 82,
+"offset": 0
+},
+{
+"id": "prob-p4",
+"short": "문제4",
+"title": "문제편 · 동물생리학",
+"subject": "maj",
+"kind": "prob",
+"parts": [
+{
+"file": "books/prob-p4.pdf",
+"from": 1,
+"to": 104
+}
+],
+"pages": 104,
+"offset": 0
+},
+{
+"id": "prob-p5",
+"short": "문제5",
+"title": "문제편 · 면역학·발생학",
+"subject": "maj",
+"kind": "prob",
+"parts": [
+{
+"file": "books/prob-p5.pdf",
+"from": 1,
+"to": 85
+}
+],
+"pages": 85,
+"offset": 0
+},
+{
+"id": "prob-p6",
+"short": "문제6",
+"title": "문제편 · 식물학·생태학",
+"subject": "maj",
+"kind": "prob",
+"parts": [
+{
+"file": "books/prob-p6.pdf",
+"from": 1,
+"to": 76
+}
+],
+"pages": 76,
+"offset": 0
+}
+]
